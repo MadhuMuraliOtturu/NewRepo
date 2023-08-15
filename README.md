@@ -1,2 +1,2 @@
 # NewRepo
-Description About Git Repo
+Description About Git Repository
